@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "nombre": "Grupo 1",
+      "descripcion": "Grupo de ",
+      "integrantes": ["Julio Benitez", "Pepe Perez", "Miguel Gonzalez"],
+      "expenses": [
+        {
+          "payer": "Miembro 1",
+          "participants": ["Miembro 1", "Miembro 2", "Miembro 3"],
+          "cost": 100
+        },
+        {
+          "payer": "Miembro 2",
+          "participants": ["Miembro 1", "Miembro 2"],
+          "cost": 50
+        }
+      ]
+    },
+    {
+      "name": "Grupo 2",
+      "description": "Descripción del Grupo 2",
+      "members": ["Usuario1", "Usuario4", "Usuario5"],
+      "expenses": [
+        {
+          "payer": "Usuario1",
+          "participants": ["Usuario4", "Usuario5"],
+          "cost": 80
+        }
+      ]
+    },
+    {
+      "name": "Grupo 3",
+      "description": "Descripción del Grupo 3",
+      "members": ["Usuario3", "Usuario4", "Usuario6"],
+      "expenses": [
+        {
+          "payer": "Usuario4",
+          "participants": ["Usuario3", "Usuario6"],
+          "cost": 25
+        },
+        {
+          "payer": "Usuario6",
+          "participants": ["Usuario4"],
+          "cost": 40
+        }
+      ]
+    },
+    {
+      "name": "Grupo 4",
+      "description": "Descripción del Grupo 4",
+      "members": ["Usuario2", "Usuario5", "Usuario6"],
+      "expenses": [
+        {
+          "payer": "Usuario5",
+          "participants": ["Usuario2", "Usuario6"],
+          "cost": 60
+        }
+      ]
+    }
+  ]
