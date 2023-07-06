@@ -14,7 +14,7 @@ Repositorio del proyecto formado por Enrique Pérez y Josemaría Ruiz para la as
 ### Ejecutar backend en modo desarrollador
 `npm run start:dev`
 
-#### Por defecto el backend corre en el puerto 3000
+#### Por defecto el backend corre en el puerto 8000
 
 # Frontend
 
